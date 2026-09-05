@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Raw dataset
+dataset/dataset - Gesture Speech/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+.vscode/

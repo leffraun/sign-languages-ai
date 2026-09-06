@@ -93,8 +93,8 @@ python src/live_demo.py
 
 
 ## Limitations
-1. Add a 2 hand image capture 
 ## What's next
+1. Add a 2 hand image capture 
 ## Conclusion
 ## Author
 ## References
